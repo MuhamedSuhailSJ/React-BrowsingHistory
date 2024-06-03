@@ -113,3 +113,4 @@ The app must have the following functionalities
 # BrowsingHistory
 # BrowsingHistory
 # BrowsingHistory
+# BrowsingHistory
