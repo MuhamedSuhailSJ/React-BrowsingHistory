@@ -1,0 +1,28 @@
+.HistoryContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
+}
+
+.EachHistoryContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.EachHistoryUrlContainer {
+  margin-left: 40px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logourl {
+  width: 25px;
+  margin-right: 20px;
+}
+
+.deleteButton {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
